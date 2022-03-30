@@ -42,8 +42,8 @@ public class StringFunctions {
 
         // Podemos tener una lista de BiFuntions
         List<BiFunction<String, Integer, String>> formateadores;
-    }
 
+    }
 
 }
 

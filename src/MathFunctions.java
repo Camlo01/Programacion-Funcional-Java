@@ -37,6 +37,7 @@ public class MathFunctions {
         System.out.println(isEven.test(4));
 
 //        método que define si un estudiante aprobó si su calificación es mayor a 6.0
+//      De esta manera podemos hacer validaciones
         Predicate<Student> isApproved = student -> student.getCalification() > 6.0;
 
 //        creamos un estudiante por su calificacion
