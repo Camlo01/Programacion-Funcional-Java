@@ -67,19 +67,6 @@ public class MathFunctions {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     //Como se haría normalmente
     static int square(int x) {
         return x * x;
