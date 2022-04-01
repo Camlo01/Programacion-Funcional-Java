@@ -1,4 +1,4 @@
-package SAM;
+package _5_SAM;
 
 import java.time.LocalDate;
 import java.time.Period;
